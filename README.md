@@ -11,6 +11,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Solexi/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -20,6 +21,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Solexi/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -36,5 +38,6 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Solexi/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
