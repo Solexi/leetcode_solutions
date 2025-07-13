@@ -18,6 +18,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Solexi/leetcode_solutions/tree/master/1168-duplicate-zeros) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0713-subarray-product-less-than-k](https://github.com/Solexi/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Solexi/leetcode_solutions/tree/master/1168-duplicate-zeros) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Solexi/leetcode_solutions/tree/master/0018-4sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +56,8 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Solexi/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
