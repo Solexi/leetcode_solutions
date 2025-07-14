@@ -7,6 +7,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Solexi/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,8 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Solexi/leetcode_solutions/tree/master/0874-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Solexi/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
