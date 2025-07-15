@@ -9,6 +9,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Solexi/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/Solexi/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Solexi/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/Solexi/leetcode_solutions/tree/master/0874-backspace-string-compare) |
+| [0908-middle-of-the-linked-list](https://github.com/Solexi/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Solexi/leetcode_solutions/tree/master/1168-duplicate-zeros) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
