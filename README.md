@@ -77,6 +77,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Solexi/leetcode_solutions/tree/master/0874-backspace-string-compare) |
+| [3396-valid-word](https://github.com/Solexi/leetcode_solutions/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
