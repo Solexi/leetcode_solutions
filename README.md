@@ -20,6 +20,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0018-4sum](https://github.com/Solexi/leetcode_solutions/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Solexi/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Solexi/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Solexi/leetcode_solutions/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Solexi/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Solexi/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [3396-valid-word](https://github.com/Solexi/leetcode_solutions/tree/master/3396-valid-word) |
 ## Stack
