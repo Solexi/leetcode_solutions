@@ -10,6 +10,5 @@ class Solution:
 
         for i, group in enumerate(groups):
             timeTaken.append(max(group + processorTime[i]))
-            print(timeTaken)
         return int(max(timeTaken))
         
