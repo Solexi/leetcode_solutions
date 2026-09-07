@@ -45,6 +45,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Solexi/leetcode_solutions/tree/master/1168-duplicate-zeros) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3151-minimum-processing-time](https://github.com/Solexi/leetcode_solutions/tree/master/3151-minimum-processing-time) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3151-minimum-processing-time](https://github.com/Solexi/leetcode_solutions/tree/master/3151-minimum-processing-time) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3151-minimum-processing-time](https://github.com/Solexi/leetcode_solutions/tree/master/3151-minimum-processing-time) |
 ## String
 |  |
 | ------- |
