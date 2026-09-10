@@ -38,6 +38,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0015-3sum](https://github.com/Solexi/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Solexi/leetcode_solutions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -98,6 +99,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Solexi/leetcode_solutions/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Solexi/leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
@@ -114,4 +116,8 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Solexi/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
