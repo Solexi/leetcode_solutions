@@ -45,6 +45,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0713-subarray-product-less-than-k](https://github.com/Solexi/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Solexi/leetcode_solutions/tree/master/1168-duplicate-zeros) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solexi/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3151-minimum-processing-time](https://github.com/Solexi/leetcode_solutions/tree/master/3151-minimum-processing-time) |
 ## Binary Search
@@ -120,4 +121,5 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solexi/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
