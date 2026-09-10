@@ -14,10 +14,8 @@ class Solution:
             for i in range(size):
                 for j in range(i, size):
                     mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
-                print('Tranpose: ', mat)
             for i in range(size):
                 mat[i].reverse()
-                print(mat)
 
             if mat == target:
                 return True
