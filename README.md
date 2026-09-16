@@ -41,6 +41,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Solexi/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Solexi/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0015-3sum](https://github.com/Solexi/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Solexi/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Solexi/leetcode_solutions/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Solexi/leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Solexi/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Solexi/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -113,6 +115,7 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | [0141-linked-list-cycle](https://github.com/Solexi/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Solexi/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Solexi/leetcode_solutions/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +125,24 @@ This repository contains solutions to Leetcode problems submitted on Leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/Solexi/leetcode_solutions/tree/master/0048-rotate-image) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solexi/leetcode_solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Solexi/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
